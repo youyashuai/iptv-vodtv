@@ -1,0 +1,15 @@
+﻿CCTV-1(高清),http://183.250.157.35:8880/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-2(高清),http://183.250.157.35:8880/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV3,http://183.250.157.35:8880/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-4(高清),http://183.250.157.35:8880/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV5-体育,http://183.250.157.35:8880/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6,http://183.250.157.35:8880/tsfile/live/0005_2.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-7(高清),http://183.250.157.35:8880/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV8-电视剧,http://183.250.157.35:8880/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV9-纪录,http://183.250.157.35:8880/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-10(高清),http://183.250.157.35:8880/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-11,http://183.250.157.35:8880/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV12-社会与法,http://183.250.157.35:8880/tsfile/live/0012_2.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-新闻,http://183.250.157.35:8880/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV14-少儿,http://183.250.157.35:8880/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+卫视,http://183.250.157.35:8880/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
